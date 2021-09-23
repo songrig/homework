@@ -1,4 +1,4 @@
-unction subset(arr) {// 1,2,3,4
+function subset(arr) {
 let resoult =[];
 let tmpArr =[];
 for (let i = 0; i < arr.length; i++) {
