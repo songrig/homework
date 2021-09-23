@@ -1,5 +1,5 @@
 function subset(arr) {
-let resoult =[];
+let res =[];
 let tmpArr =[];
 for (let i = 0; i < arr.length; i++) {
 if (i< (arr.length-1)) {
@@ -11,5 +11,7 @@ tmpArr=[];
 }
 }
 }
-console.log(resoult);
+console.log(res)
 }
+
+
